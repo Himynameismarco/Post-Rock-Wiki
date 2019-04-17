@@ -1,0 +1,28 @@
+
+body {
+ background-image:url(Hintergrundbilder/ye-jinghan-515096-unsplash.jpg);
+ }
+
+/* h1 ist der Selector, danach folgt der Declaration-Block */
+ h1 {
+   color: white;
+   text-align: center;
+   font-family: News-Gothic;
+   font-size: 50px;
+   padding-bottom: 100px;
+ }
+ h2 {
+   color: white;
+   text-align: left;
+   font-family: News-Gothic;
+   font-size: 50px;
+   padding-bottom: 20px;
+ }
+
+ p2 {
+   color: white;
+   text-align: center;
+   font-family: News-Gothic;
+   font-size: 300px;
+   padding-bottom: 300px;
+ }
