@@ -1,0 +1,80 @@
+
+
+.row-header{
+    margin:0px auto;
+    min-height: 80px;
+    padding:0px;
+}
+
+body, html {
+  height: 100%;
+}
+
+.bg {
+ background-image: url(../Bilder/josh-rose-506979-unsplash.jpg) ;
+
+ height: 50%;
+
+ /* Center and scale the image nicely */
+ background-position: center;
+ background-repeat:repeat;
+ background-size: cover;
+ }
+
+ .bg1 {
+  background-image: url(../Bilder/josh-rose-506979-unsplash1.jpg) ;
+
+  height: 100%;
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat:repeat;
+  background-size: cover;
+  }
+
+
+.row-content {
+    margin:0px auto;
+    /* was macht padding?
+    den Innenabstand des Elements alos der Zwischenraum Zwischenraum
+    Inhalt eines Elements und der Element-Grenze */
+    padding: 50px 0px 50px 0px;
+    /* das macht mir den Abstand nach jeder row */
+    border-bottom: 1px ridge;
+    min-height:100px;
+  }
+
+.row-content-forumseintrag {
+      margin:0px auto;
+      /* was macht padding?
+      den Innenabstand des Elements alos der Zwischenraum Zwischenraum
+      Inhalt eines Elements und der Element-Grenze */
+      padding: 50px 0px 50px 0px;
+      /* das macht mir den Abstand nach jeder row */
+      border-bottom: 1px ridge;
+      min-height:100px;
+      background: #424242;
+    }
+
+.footer{
+    background-color:#A4A4A4;
+    margin:0px auto;
+    padding: 20px 0px 20px 0px;
+}
+
+/* hier fügen wir einfach etwas zu dem standard-jumbotron hinzu
+*/
+.jumbotron {
+  padding: 70px 30px 70px 30px;
+  margin: 0px auto;
+  background: #848484;
+  color: floralwhite;
+}
+
+/* um bestimmte Teile für bestimmte Screen-Sizes nicht auszugeben.
+*/
+
+.container {
+  border-bottom: 1px ridge;
+  min-height: 10px;
+}

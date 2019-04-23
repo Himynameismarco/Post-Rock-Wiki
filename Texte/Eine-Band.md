@@ -1,0 +1,1 @@
+Wenn ich jetzt aber eine Band auswählen müsste, die das Musikgenre geprägt hat, welche wäre das und: warum? 
